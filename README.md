@@ -1,17 +1,21 @@
 ### Follow up Questions 
 
 1. How long did you spend on the code test?
+
 Not long: 3:20min if you calculate uploading to git too. 
 
 2. What went well?
-Bootstraping the project with create-react-app went well
+
+Bootstraping the project with create-react-app went well for me.
 
 3. Was there anything that was attempted but was not possible to get working in the time so is not visible in the code?
+
 Yes!
-using classnames package I would have being able to implement loading state for each component. but there was time constrain so I had to abandon it. 
+using classnames package I would have being able to implement loading state for each component. but there was time constraint so I had to abandon it. 
 
 4. What would you do to improve it / continue development?
-Verification of data and to show errors to the user. 
+
+I would improve data Verification from API and display errors to the user. 
 
 ![screenshot](https://i.imgur.com/LXnOlGK.png)
 ![screenshot](https://i.imgur.com/ClBt3dx.png)
